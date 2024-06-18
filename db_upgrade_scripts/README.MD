@@ -1,4 +1,4 @@
-## MOSIP ID Authentication Database (mosip_ida) Release scripts inventory and deployment/revoke guidelines on postgresql database. 
+### MOSIP ID Authentication Database (mosip_ida) Release scripts inventory and deployment/revoke guidelines on postgresql database. 
 
 ## Prerequisities
 
