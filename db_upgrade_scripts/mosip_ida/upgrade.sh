@@ -18,6 +18,10 @@ fi
 echo "Current version: $CURRENT_VERSION"
 echo "UPGRADE version: $UPGRADE_VERSION"
 echo "Action: $ACTION"
+echo "DB_SERVERIP: $DB_SERVERIP"
+echo "DB_PORT: $DB_PORT"
+echo "DEFAULT_DB_NAME: $DEFAULT_DB_NAME"
+echo "MOSIP_DB_NAME: $MOSIP_DB_NAME"
 
 # Terminate existing connections
 echo "Terminating active connections"
